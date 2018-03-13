@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Piyush JAin</string>
+    <string name="FacebookAppId">1884500165169162</string>
+    <string name="facebook_app_id">1884500165169162</string>
+    <string name="fb_login_protocol_scheme">fb1884500165169162</string>
+    <string name="action_switch_role">Switch Role</string>
+    <string name="action_add_trail">Add Trail</string>
+    <string name="prompt_trail_name">Trail Name</string>
+    <string name="prompt_trail_station_name">Trail Station Name</string>
+    <string name="add_trail">Add Trail</string>
+    <string name="add_trail_station">Add Trail Station</string>
+</resources>
